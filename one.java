@@ -1,4 +1,3 @@
-vbhbbvbnvnv
-fjcvnjvnjnv
-
-changes added
+public static void main(){
+  System.out.println("One.java");
+}
