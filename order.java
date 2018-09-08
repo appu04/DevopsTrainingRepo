@@ -1,5 +1,6 @@
-public static void main(){
-System.out.println("Order page");
+public class HelloWorld{
 
-
+     public static void main(String []args){
+        System.out.println("Hello World");
+     }
 }
